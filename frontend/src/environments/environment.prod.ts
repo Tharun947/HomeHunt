@@ -1,3 +1,3 @@
 export const environment = {
-  apiUrl: '/api'
+  apiUrl: 'https://homehunt-rental-management.onrender.com/api'
 };
